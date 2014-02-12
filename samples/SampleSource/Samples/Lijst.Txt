@@ -1,0 +1,460 @@
+
+- SampleSource - De lijst
+
+Release date: 23-9-1994
+SampleSource is een collectie hoge kwaliteits 8bit samples speciaal voor 
+dance, house, techno, trance, en rave music. Deze geluiden zijn door ons zelf 
+geprogrammeerd op onze analoge en digitale synthesizers. 
+Losse drumsamples van de beste drumcomputers, zoals de TR909 en TR808, met een
+handleiding om daarmee op een kanaal ingewikkelde drumpatronen te maken. 
+Verschillende vette analoge bassen, scheurende leads (beide ook geloopt) en de
+mooiste synthsounds. De acidsamples, 8 tot 16 samples van hetzelfde geluid met
+verschillende filtersettings, voor de echte TB303 feel. Een disk vol drumloops
+en tot slot de unieke ChordSamples, waarmee prachtige orgel, brass en 
+pianoloopjes te maken zijn.
+Alle samples zijn via een 16bit effects processor en een Amas samples met zo
+min mogenlijk ruis gesampled. Bij de Amiga versie is het formaat IFF 8SVX, dus
+in alle muziekprogramma's zo in te laden. Bij de MS-DOS versie is het .WAV 
+formaat gebruikt (standaard voor windows). Behalve de drums zijn alle samples 
+op C3 gesampled. 
+Veel plezier met SampleSource!
+
+- SS1-Drums1:Drums/
+
+ Let Op: alle drums zijn op F3 gesampled!
+ Lees Drums.Txt (Op SS1-Drums1) voor een uitleg hoe je, door de drums te 
+ mengen, ze op een kanaal kan krijgen.
+ De namen van de samples zijn vaak afgekort omdat ze anders te lang zouden
+ worden voor de pc-gebruikers onder ons, hier de betekenis van een paar
+ veelgebruikte afkortingen bij de drums:
+
+ BD - BassDrum (of Kick)
+ SD - SnareDrum
+ HHO - Open HiHat
+ HHC - Closed HiHat
+ M - Mid 
+ L - Low
+ H - High
+ Cb - Cymbal (dus CbRide is Ride Cymbal)
+   
+TrianglO               Triangel sampletjes, leuk om als HiHat te gebruiken!    
+TrianglC
+
+ De Roland TR909 is de basis voor 99% van alle dance-tracks. Hier komt DE 
+ bassdrum nou uit. Voor elk geluid heeft de TR909 een aantal knoppen waarmee 
+ je het geluid kan veranderen. We hebben 6 verschillende snares en 3
+ verschillende bassdrums gesampled
+
+TR909.TomMid               
+TR909.TomLo
+TR909.TomHi
+TR909.SD6              Verschillende Tune, Decay en Snappy instellingen.
+TR909.SD5
+TR909.SD4
+TR909.SD3
+TR909.SD2
+TR909.SD1
+TR909.RimShot
+TR909.HHO
+TR909.HHC
+TR909.Claps
+TR909.CbRide
+TR909.CbCrash3         Verschillende Tune en Decay instellingen.
+TR909.CbCrash2
+TR909.CbCrash1
+TR909.BD3              Verschillende Tune, Decay en Attack instellingen.
+TR909.BD2
+TR909.BD1
+
+ De TR808 is voor de HipHop en Rap, wat de TR909 voor Techno is, DE Machine.
+ Hier ook draaiknoppen om de geluiden te veranderen.
+
+TR808.TomM
+TR808.TomL
+TR808.TomH
+TR808.SD3              Verschillende Tone en Snappy instellingen
+TR808.SD2
+TR808.SD1
+TR808.RimShot
+TR808.Maracas
+TR808.HHO
+TR808.HHC
+TR808.HandClap
+TR808.Cymbal
+TR808.CowBell
+TR808.CongaM
+TR808.CongaL
+TR808.CongaH
+TR808.Claves
+TR808.BD3              Verschillende Tone en Decay instellingen
+TR808.BD2
+TR808.BD1
+
+ De TR727 is de latin drumbox. Prachtig te gebruiken samen met de TR909 (als
+ je Quazar kent, weet je wat ik bedoel)
+
+TR727.Whistl2
+TR727.Whistl1
+TR727.TimbaleL
+TR727.TimbaleH
+TR727.Shake2
+TR727.Shake1
+TR727.Quijada
+TR727.PadDrum
+TR727.MetalL
+TR727.MetalH
+TR727.CongaL
+TR727.CongaH
+TR727.AgogoL
+TR727.AgogoH
+
+ De Simmons Kit was eind jaren 70 het eerste electronische drumsysteem. Het
+ bestond uit pads, waar je met drumstokjes op kon slaan, die verbonden waren
+ met modules, waarvoor er voor elk geluid een was. Dit zijn de fabriekspresets
+ van die modules 
+
+Simmons.Tom
+Simmons.Snare
+Simmons.OHH
+Simmons.Metal
+Simmons.CowBell
+Simmons.Clap
+Simmons.CbCrash
+Simmons.BD
+
+PunchSD                Euh...
+PunchBD
+
+ De Live samples zij gewoon rechtstreeks van n' echt drumstel gesampled.
+
+Live.SideStick
+Live.HH2O
+Live.HH2C
+Live.HH1O
+Live.HH1C
+Live.FunkySD
+Live.FunkBD
+Live.drySD
+Live.dryBD
+Live.Cymbal
+Live.BigSD
+Live.BigBD
+
+ Ook een klassieker:
+
+Linn9000.Tom
+Linn9000.Tambo
+Linn9000.Shaker
+Linn9000.SD
+Linn9000.RimShot
+Linn9000.HHO
+Linn9000.HHC
+Linn9000.HandClap
+Linn9000.CongaL
+Linn9000.CongaH
+Linn9000.CbRide
+Linn9000.CbCrash2
+Linn9000.CbCrash1
+Linn9000.CbChina
+Linn9000.BD
+
+- SS2-Drums2:Drums/
+
+ De R8 is ook van Roland en tevens een van de beste digitale drumcomputers.
+ Realistische drums dus, maar vooral mooie dunne hihats.
+
+R8.Whistle2
+R8.Whistle1
+R8.TomRoom4
+R8.TomRoom3
+R8.TomRoom2
+R8.TomRoom1
+R8.TomPwr4
+R8.TomPwr3
+R8.TomPwr2
+R8.TomPwr1
+R8.TomDry4
+R8.TomDry3
+R8.TomDry2
+R8.TomDry1
+R8.TomDoom
+R8.Tambo
+R8.Taiko
+R8.Spark
+R8.SideStk2
+R8.SideStk1
+R8.Shaker
+R8.SDWood
+R8.SDTight
+R8.SDSnap
+R8.SDReverb
+R8.SDPicolo
+R8.SDOuch
+R8.SDOpen
+R8.SDNice
+R8.SDImpact
+R8.SDFat
+R8.RimShot2
+R8.RimShot1
+R8.OpenDrum
+R8.HHPedal
+R8.HHO
+R8.HHC
+R8.Cowbell
+R8.CongaSlide
+R8.CongaSlap
+R8.CongaMute
+R8.CongaLow
+R8.Clave
+R8.CbRideBl
+R8.CbRide
+R8.CbCrash
+R8.CbBell
+R8.Can
+R8.Cabasa
+R8.BDWood1
+R8.BDSolid
+R8.BDRoom2
+R8.BDRoom1
+R8.BDMondo
+R8.BDDry2
+R8.BDDry1
+R8.BDDblHd2
+R8.BDDblHd1
+R8.AgogoOct
+R8.Agogo
+R8.808Clap
+
+ De Oberheim Drummatix is de eerste programmeerbare drumcomputer. 
+
+ObermeimDMX.Toms6
+ObermeimDMX.Toms5
+ObermeimDMX.Toms4
+ObermeimDMX.Toms3
+ObermeimDMX.Toms2
+ObermeimDMX.Toms1
+ObermeimDMX.Tamb2b
+ObermeimDMX.Tamb2a
+ObermeimDMX.Tamb1b
+ObermeimDMX.Tamb1a
+ObermeimDMX.Shaker3
+ObermeimDMX.Shaker2
+ObermeimDMX.Shaker1
+ObermeimDMX.SD3
+ObermeimDMX.SD2
+ObermeimDMX.SD1
+ObermeimDMX.HHO
+ObermeimDMX.HHC
+ObermeimDMX.Claps
+ObermeimDMX.CbRide2
+ObermeimDMX.CbRide1
+ObermeimDMX.CbCrash
+ObermeimDMX.BD3
+ObermeimDMX.BD2
+ObermeimDMX.BD1
+
+ Deze Bassdrum heb ik zelf geprogrammeerd op m'n Roland Juno1. Bij elke
+ instelling staat de filter steeds iets verder open zodat de BassDrum alsmaar
+ duidelijker klikt. Het is leuk om er een met een lage en een met een hoge
+ instelling te gebruiken en die af te wisselen  
+
+BD.q1 -> .q24
+
+- SS3-Bass&Lead:Bass/
+
+ Basgeluiden en Bassdrums klinken bij 8 bit sampling altijd een beetje 
+ ruiserig (is dat een goed nederlands woord?), hier is niks aan te doen, dit 
+ is een van de tekortkomingen van 8bit sampling. Wat je wel kan doen is zorgen
+ dat de ruis niet opvalt door de bas nooit alleen te laten horen. Laat er 
+ altijd iets met veel hoog, zoals hihats meespelen.
+
+ShortB.L   Kort dus.
+ShortB.H
+ShortB
+ResBass    Kort&Vet, maar ook met veel hoog zodat je m' overal doorheen hoort.
+PwmBass    Pulse Width Modulation.
+FunBass.S  Cool! Korte en...
+FunBass.L  lange versie.
+DblBass    Twee octaven.
+
+- SS3-Bass&Lead:LoopedBass/
+
+ Al deze samples hebben een geloopt einde. Goed voor pitch-bend of hybrid
+ sounds (zie oktamed).
+
+ResBass    Fat and dirty, perfecte loop.
+Maxi       Veel hoog, perfecte loop.
+EchoBass   Met n' leuk echootje dus, perfecte loop.
+DubBass    Yeah, Ragga!, perfecte loop.
+AnaBass	   Laag en mellow, eeuwige loop.
+
+- SS3-Bass&Lead:Lead/
+
+Yess!      Fat, dirty and movin'
+SweepUp    Filter sweep.
+SweepDwn   Idem.
+Squirl     Combinatie van filter en pitch sweeps
+Ramp       Cool.
+Poly       Low, cool and noisey.
+Oh         Yes!
+Maniac     Filter sweeps up at end.
+LowAxe     Well...
+HardOne    Is it a bass?
+Grunt      Low and noisey.
+Fat        Vet.
+BrassOne   Strong.
+Axe.S      Korte versie van de volgende.
+Axe.L      Lange versie van de vorige.
+
+- SS3-Bass&Lead:LoopedLead/
+
+SyncLead   Nice looped.
+LeadMe     Distorted guitar imitation, perfect loop.
+HiSquare   Buzzzes through butter, nice loop.
+GoOn       Go and Go on. 
+DeepLead   Fat and cuts, perfect loop.
+DeepDown   Fat buzz, perfect loop.
+Cutting    Another guitar, nice loop.
+Brassy     Toet, nice loop.
+BeepMe     Piep, perfect loop. 
+
+- SS4-Melody:Melody/
+
+Vocoder.Oh Allemaal samen gebruiken!
+Vocoder.Ah 
+Vocoder.AA 
+VibFlute   Iets trillends en iets met fluit.
+Trumpet    Is engels voor trompet. kort.
+SweepFlt   Fluit met filter sweep.
+stingwav   Au.
+StaticTick Kortste sample van alle 675.
+SinFlute   Wow, mooi!
+ShrtElec   Electrische pianoo.
+SaxShot    Sax-o-foon.
+SAVEDbeep  Piep.
+rockstck   is dit niet gewoon n' bass?
+Pulse      Cool.
+OrchHit    Kabeng!
+MelFlute   Mellow!
+GoUp       Alweer?
+Gethigh    Graag.
+FlyFlute   Errug mooi.
+Flute      Ik krijg genoeg van deze commentaren tikken.
+Flow       Wie leest er dit in hemelsnaam?
+dgrswav    Afk.
+BrassBlow  Ja.
+Blow       Niet doordenken.
+Blob       Dat was toch zo'n groen monster?
+
+- SS4-Melody:DanceDiskSpecials/
+
+ Deze samples zijn niet vers maar komen van de DanceDisk, een pd sampledisk 
+ die begin vorig jaar uitkwam.
+
+Zrrt       
+WoodBass
+TeknoTek
+TechnoL
+TechBass
+StrngBep
+ShrtLick
+ShrtBlst
+OverBass
+NoisBlow
+NoisBass
+GoGoGoGo
+FtDbBass
+Freaked
+DownLead
+DistdOrg
+Brt
+
+- SS5-Acid1:Acid/
+
+ De acid samples! Gaaf! Op de SS4-Melody disk staat een demo module. Bij acid
+ wordt tijdens het spelen van een loopje de cutoff frequency van de filter
+ veranderd, daardoor krijg je n' soort golfbewegingen in de muziek. De amiga
+ heeft geen filter dus is acid niet mogenlijk, behalve natuurlijk als je van
+ elk geluid meerdere filterinstellingen sampled. 
+
+303.q1 -> .q16         Short and mental, Roland TB303.     
+Bip.q1 -> .q12         Bleep.
+Chime.q1 - > .q16      Well...
+Fart.q1 -> .q8         Agressive and noisey, the 101.
+FdBack.q1 -> .q16      High resonance setting (24Db/Oct) gives feedback.
+Marba.q1 -> .q16       Dit is eigenlijk n' Marimba
+Wobble.q1 -> .q16      Very liquid.
+
+- SS6-Acid2:Acid/
+
+Maniac.q1 -> .q8       Only for the die-hard acid fans.
+Raw.r1.q1 -> .q8       Special: not only 8 cutoff frequency settings, but...
+Raw.r2.q1 -> .q8       that for 4 different resonace settings.
+Raw.r3.q1 -> .q8
+Raw.r4.q1 -> .q8
+Sweep.q1 -> q8         Sweeped.
+
+- SS7-Loops:Loops/
+
+ Gebruik de loops niet zoals ze nu zijn, dat is saai. Versnel ze met
+ AudioMaster en/of haal ze uit elkaar en gooi de losse stukken door elkaar. 
+
+Tribal1   90 Bpm   De tweede moet op de helft van de eerste komen dus.      
+Tribal2   
+Tribal3
+Straw              De beatles vonden de breakbeat uit! van strawberry fields.
+Shake     112 Bpm  Great snare fill
+Raw       109 Bpm  Nice, with tambourine.
+KGB       108 Bpm  Is swings and jives...
+Housin    126 Bpm  Clean and straight housetrack backbeat.
+HardRage  148 Bpm  wow! fast, freaky and ragga!
+HardCore  140 Bpm  Well...
+FunkMe    125 Bpm  Booming
+FuckedUp  130 Bpm  Fast, hard and noisey.
+Dopin     101 Bpm  Clean, clear and dopin
+Dopejam   105 Bpm  Freaky!
+Break     113 Bpm  Hear the needle
+Bad       104 Bpm  Live and kickin
+
+- SS8-Chords1:Chords/Piano/
+
+ Mooie housepiano met veel chorus. Lees voor uitleg over het gebruik van de 
+ accoordsampels de Chords.txt op SS8.
+ 
+- SS8-Chords1:Chords/Sweep/
+
+ Filter sweeps, gebruik deze met het sample offset commando, zie de demo op 
+ SS4-Melody.
+
+- SS9-Chords2:Chords/KwlBrs/
+ 
+ Mooie analoge brass met veel hoog.
+
+- SS9-Chords2:Chords/StOrg/
+
+ Rockorgel met veel reverb.
+
+- SS10-Chords3:Chords/BadBr/
+
+ Vette brass.
+
+- SS10-Chords3:Chords/BrtBr/
+
+ Coole lead, vet en hoog, met sweep.
+
+- SS11-Chords4:Chords/Brass/
+
+ Realistische brass.
+
+- SS11-Chords4:Chords/MlOrg/
+
+ Mooi vol, laag en vet orgel.
+
+- SS12-Chords5:Chords/Dream/
+
+ Mellow strings.
+
+- SS12-Chords5:Chords/Fuzzy/
+
+ Volle strings.
+

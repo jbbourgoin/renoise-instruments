@@ -1,0 +1,58 @@
+
+- SampleSource - Drums (Drums.MOD)
+
+In deze txt zal ik uitleggen hoe je door losse samples te mixen, met maar een 
+kanaal toch ingewikkelde drumpatronen kan maken.
+Laadt Drums.MOD in en lees mee:
+
+- Block 0
+Hier hoor je het de hele drumloop die naar een kanaal gemixed gaat worden. Op
+kanaal 0 zit de bassdrum, op kanaal 1 de tambourijn, op kanaal 2 de hihats en
+op kanaal 3 de snaredrum. De snaredrum en claps zijn al met elkaar gemixed met een
+verhouding van 100% source level/100% destination level.
+
+- Block 1
+Er is nog niks gemixt, maar de samples in kanaal 2 en 3 zijn nu nog maar een 
+lijn lang. De open hihat (OH, sample 2) is gesplitst in OH1 (sample 3) en OH2
+(sample 7). De Sd sample (9) is gesplitst in Sd1 (4) en Sd2 (5). Claps+Sd (6)
+is ingekort tot Claps+Sd1 (B). We hebben geen Claps+Sd2 sample nodig omdat de
+Claps sample maar een lijn lang is.
+Het moeilijkste is om uit te zoeken hoe lang een lijn duurt. De lengte van de
+samples moet precies goed zijn, als deze te lang is hoor je klikken (verhoog 
+het tempo om dat te horen), en met te korte samples vallen er stiltes (verlaag 
+het tempo).
+Om uit te vinden hoe lang een sample voor een lijn bij een bepaald tempo moet
+zijn is het het makkelijkst om een openhihat te nemen en met die sample het
+volgenden blok te maken:
+
+ 000 F-3 10000  Deze sample duurt maar een lijn. 
+ 001 --- 00C00
+ 002 --- 00000
+ 003 --- 00000 
+
+Speel dit af, neem het op een cassettebandje op, sample het, haal de
+ongebruikte ruimte er af en kijk hoe lang de sample is. Dit is de lengte van
+een lijn in bytes bij het tempo waarmee het blok afgespeeld is.
+Als je nog klikjes hoort moet je de samples steeds iets korter maken tot je
+niets meer hoort.
+
+- Block 2
+Hier zijn de tambourijnen met de hihats gemixt met een verhouding van 50%/50%.
+
+- Block 3
+Nu is alles bij elkaar gemikt, weer met een verhouding van 100%/100%. Met deze
+samples kan je nu alle drumpatronen maken die je maar wil, en dat neemt 
+evenveel geheugen in als twee breakbeats van 16 lijnen lang!
+
+Let Op!: Alleen met OctaMed versie 5 kan je mixen met verschillende
+verhoudingen. In andere programma`s kan je hetzelfde doen door te mixen en dan
+het volume te verdubbelen, maar dan krijg je wel vervorming.  
+
+- Tips
+Het is het handigst om eerst van alle losse samples de volumes te veranderen
+totdat het goed klinkt (let op dat de hihats niet te hard worden), en dan pas
+de samples te gaan mixen.
+
+Je kunt hihats en snaredrums frisser laten klinken door ze te boosten. Doe dit
+altijd voordat je de samples gemixt hebt, anders versterk je de ruis van de
+bassdrum.
