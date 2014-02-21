@@ -1,0 +1,3 @@
+http://www.wavtones.com/functiongenerator.php
+http://www.audiocheck.net/testtones_bluenoise.php
+http://www.audiocheck.net/audiofrequencysignalgenerator_sinetone.php
