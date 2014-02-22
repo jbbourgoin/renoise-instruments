@@ -1,3 +1,6 @@
+8 SIGNED INSTRUMENT
+-------------------
+
 Positive : 01 -> 7F
 NULL     : FF
 Negative : FE <- 80
