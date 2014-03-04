@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?> 
+<morphEQ>
+	<snapshot name="flat" gain="0">						
+	</snapshot>
+	<snapshot name="tone LP 1" gain="-6">				
+		<band i="1" freq="-2" gain="24" BW=".1" />
+		<band i="2" freq="-1" gain="24" BW=".1" />
+		<band i="3" freq="0" gain="24" BW=".1" />
+		<band i="4" freq="1" gain="24" BW=".1" />
+		<band i="5" freq="2.0" gain="24" BW=".1" />		
+		<band i="7" freq="0"/>		
+	</snapshot>	
+	<snapshot name="tone LP 2" gain="-6">				
+		<band i="1" freq="-.2" gain="24" BW=".01" />
+		<band i="2" freq="-.1" gain="24" BW=".01" />
+		<band i="3" freq="0" gain="24" BW=".01" />
+		<band i="4" freq=".1" gain="24" BW=".01" />
+		<band i="5" freq=".2" gain="24" BW=".01" />		
+		<band i="7" freq="0"/>		
+	</snapshot>	
+	<snapshot name="Bell labs" gain="-40">		
+		<band i="0" freq="-6"/>
+		<band i="1" freq="-1" gain="50" BW="0.02" />
+		<band i="2" freq="1" gain="40" BW="0.04" />
+		<band i="3" freq="1.58" gain="40" BW="0.06" />
+		<band i="4" freq="2.07" gain="40" BW="0.07" />
+		<band i="5" freq="2.43" gain="40" BW="0.08" />
+		<band i="6" freq="2.77" gain="40" BW="0.1" />		
+		<band i="7" freq="6"/>		
+	</snapshot>
+	<snapshot name="combs" gain="0">				
+		<band i="1" freq="0" gain="-80" BW="0.01" />
+		<band i="2" freq="1" gain="-80" BW="0.01" />
+		<band i="3" freq="1.58" gain="-80" BW="0.01" />
+		<band i="4" freq="2" gain="-80" BW="0.01" />
+		<band i="5" freq="2.32" gain="-80" BW="0.01" />
+		<band i="6" freq="2.58" gain="-80" BW="0.01" />				
+	</snapshot>	
+	<snapshot name="random dips" gain="0">				
+		<band i="1" freq="0" gain="-80" BW="0.01" />
+		<band i="2" freq="0.7" gain="-80" BW="0.01" />
+		<band i="3" freq="1.6" gain="-80" BW="0.01" />
+		<band i="4" freq="2.3" gain="-80" BW="0.01" />
+		<band i="5" freq="3.1" gain="-80" BW="0.01" />
+		<band i="6" freq="4.54" gain="-80" BW="0.01" />				
+	</snapshot>	
+	<snapshot name="ups and downs" gain="0">				
+		<band i="1" freq="0" gain="-80" BW="0.01" />
+		<band i="2" freq="1" gain="12" BW="0.1" />
+		<band i="3" freq="1.58" gain="-80" BW="0.01" />
+		<band i="4" freq="2" gain="12" BW="0.1" />
+		<band i="5" freq="2.32" gain="-80" BW="0.01" />
+		<band i="6" freq="2.58" gain="12" BW="0.1" />				
+	</snapshot>
+	<snapshot name="formant A1" gain="-40">		
+		<band i="1" freq="0.686" gain="60" BW="1.6" />
+		<band i="2" freq="1.33" gain="30" BW="0.13" />
+		<band i="3" freq="2.51" gain="30" BW="0.07" />
+		<band i="4" freq="2.77" gain="30" BW="0.05" />
+	</snapshot>
+	<snapshot name="formant A2" gain="-40">		
+		<band i="1" freq="0.433" gain="60" BW="1.8" />
+		<band i="2" freq="1.01" gain="30" BW="0.15" />
+		<band i="3" freq="2.51" gain="30" BW="0.07" />
+		<band i="4" freq="2.77" gain="30" BW="0.05" />
+	</snapshot>
+	<snapshot name="formant E" gain="-40">		
+		<band i="1" freq="0.35" gain="60" BW="2.0" />
+		<band i="2" freq="2.05" gain="30" BW="0.11" />
+		<band i="3" freq="2.51" gain="30" BW="0.07" />
+		<band i="4" freq="2.77" gain="30" BW="0.05" />
+	</snapshot>	
+	<snapshot name="formant I" gain="-40">		
+		<band i="1" freq="-0.65" gain="60" BW="2.4" />
+		<band i="2" freq="2.357" gain="30" BW="0.1" />
+		<band i="3" freq="2.51" gain="30" BW="0.07" />
+		<band i="4" freq="2.77" gain="30" BW="0.05" />
+	</snapshot>	
+	<snapshot name="formant O" gain="-40">		
+		<band i="1" freq="0.04" gain="60" BW="2.0" />
+		<band i="2" freq="0.87" gain="30" BW="0.3" />
+		<band i="3" freq="2.51" gain="30" BW="0.07" />
+		<band i="4" freq="2.77" gain="30" BW="0.05" />
+	</snapshot>	
+	<snapshot name="formant U" gain="-40">		
+		<band i="1" freq="-0.5" gain="60" BW="2.3" />
+		<band i="2" freq="0.99" gain="30" BW="0.4" />
+		<band i="3" freq="2.51" gain="30" BW="0.07" />
+		<band i="4" freq="2.77" gain="30" BW="0.05" />
+	</snapshot>	
+</morphEQ>

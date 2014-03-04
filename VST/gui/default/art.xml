@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<bank i="0">
+<!-- global bank -->
+</bank>
+<bank i="1">
+  <style name="default">
+    <surface filename="optionmenu.png">
+      <bitmap name="normal" x="0" y="0" x2="9" y2="9" />
+      <bitmap name="hover" x="9" y="0" x2="18" y2="9" />
+      <bitmap name="down" x="18" y="0" x2="27" y2="9" />
+      <bitmap name="disabled" x="27" y="0" x2="36" y2="9" />
+    </surface>
+  </style>
+</bank>
+<bank i="2">
+  <style name="default">
+    <surface filename="slider2.png">
+      <bitmap name="hhead1" x="0" y="0" x2="27" y2="15" />
+      <bitmap name="hhead2" x="27" y="0" x2="54" y2="15" />
+      <bitmap name="hhead3" x="54" y="0" x2="81" y2="15" />
+      <bitmap name="hhead4" x="81" y="0" x2="108" y2="15" />
+      <bitmap name="hhover" x="75" y="15" x2="102" y2="30" />
+      <bitmap name="vhead1" x="0" y="15" x2="15" y2="42" />
+      <bitmap name="vhead2" x="15" y="15" x2="30" y2="42" />
+      <bitmap name="vhead3" x="30" y="15" x2="45" y2="42" />
+      <bitmap name="vhead4" x="45" y="15" x2="60" y2="42" />
+      <bitmap name="vhover" x="60" y="15" x2="75" y2="42" />
+    </surface>
+  </style>
+</bank>
+<bank i="3">
+  <style name="default">
+    <surface filename="optionmenu.png">
+      <bitmap name="normal" x="0" y="0" x2="9" y2="9" />
+      <bitmap name="hover" x="9" y="0" x2="18" y2="9" />
+      <bitmap name="down" x="18" y="0" x2="27" y2="9" />
+      <bitmap name="disabled" x="27" y="0" x2="36" y2="9" />      
+    </surface>
+  </style>
+</bank>
+<bank i="4">
+  <style name="default">
+    <surface filename="optionmenu.png">
+      <bitmap name="normal" x="0" y="0" x2="9" y2="9" />
+      <bitmap name="hover" x="9" y="0" x2="18" y2="9" />
+      <bitmap name="down" x="18" y="0" x2="27" y2="9" />
+      <bitmap name="disabled" x="27" y="0" x2="36" y2="9" />
+      <bitmap name="downarrow" x="36" y="0" x2="41" y2="5" />
+      <bitmap name="leftarrow" x="41" y="0" x2="46" y2="5" />
+      <bitmap name="rightarrow" x="46" y="0" x2="51" y2="5" />
+      <bitmap name="leftarrowH" x="51" y="0" x2="56" y2="5" />
+      <bitmap name="rightarrowH" x="56" y="0" x2="61" y2="5" />
+    </surface>
+  </style>
+</bank>
+<bank i="5">
+  <style name="default">
+    <surface filename="kgv.png">
+      <bitmap name="keybed" x="0" y="14" x2="33" y2="170" />
+      <bitmap name="keybed2" x="33" y="14" x2="66" y2="170" />
+      <bitmap name="keybed_mini" x="0" y="170" x2="33" y2="254" />
+      <bitmap name="keybed2_mini" x="33" y="170" x2="66" y2="254" />
+      <bitmap name="normal" x="0" y="0" x2="5" y2="7" />
+      <bitmap name="hover" x="5" y="0" x2="10" y2="7" />
+      <bitmap name="selected" x="10" y="0" x2="15" y2="7" />			
+      <bitmap name="multiselect" x="15" y="0" x2="20" y2="7" />
+      <bitmap name="disabled" x="20" y="0" x2="25" y2="7" />
+      <bitmap name="playing" x="25" y="0" x2="30" y2="7" />
+      <bitmap name="scaleup" x="30" y="0" x2="35" y2="7" />
+      <bitmap name="scaledown" x="35" y="0" x2="40" y2="7" />  
+      <bitmap name="pad_empty" x="0" y="7" x2="5" y2="14" />    
+      <bitmap name="drop" x="5" y="7" x2="10" y2="14" />
+      <bitmap name="red" x="10" y="7" x2="15" y2="14" />
+      <bitmap name="pad_hit" x="15" y="7" x2="20" y2="14" />
+    </surface>
+  </style>
+</bank>
+<bank i="6">
+  <style name="default">
+    <surface filename="optionmenu.png">
+      <bitmap name="normal" x="0" y="0" x2="9" y2="9" />
+      <bitmap name="hover" x="9" y="0" x2="18" y2="9" />
+      <bitmap name="down" x="18" y="0" x2="27" y2="9" />
+      <bitmap name="disabled" x="27" y="0" x2="36" y2="9" />
+      <bitmap name="downarrow" x="36" y="0" x2="41" y2="5" />
+      <bitmap name="leftarrow" x="41" y="0" x2="46" y2="5" />
+      <bitmap name="rightarrow" x="46" y="0" x2="51" y2="5" />
+      <bitmap name="leftarrowH" x="51" y="0" x2="56" y2="5" />
+      <bitmap name="rightarrowH" x="56" y="0" x2="61" y2="5" />
+    </surface>
+  </style>
+</bank>
+<bank i="8">
+  <style name="default">
+    <surface filename="wavedisp.png">
+      <bitmap name="zone start" x="0" y="0" x2="13" y2="13" />
+      <bitmap name="zone end" x="13" y="0" x2="26" y2="13" />
+      <bitmap name="loop start" x="26" y="0" x2="39" y2="13" />
+      <bitmap name="loop end" x="39" y="0" x2="52" y2="13" />
+      <bitmap name="loop cf" x="52" y="0" x2="65" y2="13" />
+      <bitmap name="hitpoint" x="65" y="0" x2="78" y2="13" />
+      <bitmap name="hitpoint blank" x="78" y="0" x2="91" y2="13" />
+    </surface>
+  </style>
+</bank>
+<bank i="10">
+  <style name="default">
+    <surface filename="browser.png">
+      <bitmap name="sb_tray" x="9" y="0" x2="18" y2="9" />
+      <bitmap name="sb_head" x="18" y="0" x2="27" y2="9" />
+      <bitmap name="divider" x="27" y="0" x2="32" y2="5" />
+      <bitmap name="folder" x="0" y="9" x2="10" y2="19" />
+      <bitmap name="icon1" x="11" y="9" x2="19" y2="19" />
+      <bitmap name="icon2" x="20" y="9" x2="28" y2="19" />
+    </surface>
+  </style>
+</bank>
+<font i="0" name="Small" filename="font1.png"/>
+
+<!-- color palette for non-bitmap elements of controls AARRGGBB -->
+<!-- normal bg & text -->
+<color i="0" val="ff000000"/>
+<color i="1" val="ffffffff"/>
+<!-- disabled bg & text -->
+<color i="2" val="ff404040"/>
+<color i="3" val="ffc0c0c0"/>
+<!-- selected bg & text -->
+<color i="4" val="ffad2b03"/>
+<color i="5" val="ff000000"/>
+<!-- alt bg & text -->
+<color i="6" val="ff097ef1"/>
+<color i="7" val="ffebebeb"/>
+<!-- frame -->
+<color i="8" val="ff47494c"/>
+<!-- tint (loop area etc..) -->
+<color i="9" val="600462c2"/>
+<!-- no waveform bg -->
+<color i="10" val="ff000000"/>
+<!-- slider tray -->
+<color i="11" val="ffffffff"/>
+<color i="12" val="80ffffff"/>
+<!-- paramedit label -->
+<color i="13" val="ff404040"/>
+<!-- LFO lines, bg1, bg2, bars, curve -->
+<color i="14" val="ffa0a0a0"/>
+<color i="15" val="ffebebeb"/>
+<color i="16" val="ffe0e0e0"/>
+<color i="17" val="80ad2b03"/>
+<color i="18" val="ff000000"/>
+<!-- zones key/pad-view  bg, text1, text2, textkeybed-->
+<color i="19" val="ff47494c"/>
+<color i="20" val="ff000000"/>
+<color i="21" val="ff606060"/>
+<color i="22" val="ff000000"/>
+<!-- VU meter back/normal/overload-->
+<color i="23" val="ff232324"/>
+<color i="24" val="ffffffff"/>
+<color i="25" val="ffff2827"/>
